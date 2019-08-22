@@ -1,0 +1,132 @@
+# depslib dependency file v1.0
+1449896317 source:d:\softs\codeblocks\projects\cse 225 labs\hms\admin.cpp
+	"Admin.h"
+	"Patient.h"
+
+1449884515 d:\softs\codeblocks\projects\cse 225 labs\hms\admin.h
+	<iostream>
+	<queue>
+	<stack>
+	<vector>
+	<fstream>
+	<string>
+
+1449756235 d:\softs\codeblocks\projects\cse 225 labs\hms\admin.cpp
+	"Admin.h"
+	"Patient.h"
+
+1449893653 source:d:\softs\codeblocks\projects\cse 225 labs\hms\main.cpp
+	"Patient.h"
+	"Admin.h"
+	"Receptionist.h"
+	"Doctor.h"
+	"Nurse.h"
+	<stdlib.h>
+
+1449884515 d:\softs\codeblocks\projects\cse 225 labs\hms\patient.h
+	"Admin.h"
+
+1449884515 d:\softs\codeblocks\projects\cse 225 labs\hms\receptionist.h
+	"Admin.h"
+
+1449884515 source:d:\softs\codeblocks\projects\cse 225 labs\hms\nurse.cpp
+	"Admin.h"
+	"Nurse.h"
+	"Patient.h"
+	"Receptionist.h"
+
+1449756058 d:\softs\codeblocks\projects\cse 225 labs\hms\receptionist.cpp
+	"Admin.h"
+	"Receptionist.h"
+	"Patient.h"
+
+1449887530 source:d:\softs\codeblocks\projects\cse 225 labs\hms\receptionist.cpp
+	"Admin.h"
+	"Receptionist.h"
+	"Patient.h"
+
+1449756048 d:\softs\codeblocks\projects\cse 225 labs\hms\patient.cpp
+	"Admin.h"
+	"Patient.h"
+
+1449884515 source:d:\softs\codeblocks\projects\cse 225 labs\hms\patient.cpp
+	"Admin.h"
+	"Patient.h"
+	"Receptionist.h"
+
+1449884515 source:d:\softs\codeblocks\projects\cse 225 labs\hms\doctor.cpp
+	"Admin.h"
+	"Receptionist.h"
+	"Doctor.h"
+	"Patient.h"
+
+1449884515 d:\softs\codeblocks\projects\cse 225 labs\hms\doctor.h
+	"Admin.h"
+
+1449756128 d:\softs\codeblocks\projects\cse 225 labs\hms\doctor.cpp
+	"Admin.h"
+	"Receptionist.h"
+	"Doctor.h"
+	"Patient.h"
+
+1449884515 d:\softs\codeblocks\projects\cse 225 labs\hms\nurse.h
+	"Admin.h"
+
+1449756149 d:\softs\codeblocks\projects\cse 225 labs\hms\nurse.cpp
+	"Admin.h"
+	"Nurse.h"
+
+1449896318 source:f:\softs\from laptop\codeblocks\projects\cse 225 labs\hms\admin.cpp
+	"Admin.h"
+	"Patient.h"
+
+1449884516 f:\softs\from laptop\codeblocks\projects\cse 225 labs\hms\admin.h
+	<iostream>
+	<queue>
+	<stack>
+	<vector>
+	<fstream>
+	<string>
+
+1449884516 f:\softs\from laptop\codeblocks\projects\cse 225 labs\hms\patient.h
+	"Admin.h"
+
+1449884516 source:f:\softs\from laptop\codeblocks\projects\cse 225 labs\hms\doctor.cpp
+	"Admin.h"
+	"Receptionist.h"
+	"Doctor.h"
+	"Patient.h"
+
+1449884516 f:\softs\from laptop\codeblocks\projects\cse 225 labs\hms\receptionist.h
+	"Admin.h"
+
+1449884516 f:\softs\from laptop\codeblocks\projects\cse 225 labs\hms\doctor.h
+	"Admin.h"
+
+1449893654 source:f:\softs\from laptop\codeblocks\projects\cse 225 labs\hms\main.cpp
+	"Patient.h"
+	"Admin.h"
+	"Receptionist.h"
+	"Doctor.h"
+	"Nurse.h"
+	<stdlib.h>
+
+1449884516 f:\softs\from laptop\codeblocks\projects\cse 225 labs\hms\nurse.h
+	"Admin.h"
+
+1449884516 source:f:\softs\from laptop\codeblocks\projects\cse 225 labs\hms\nurse.cpp
+	"Admin.h"
+	"Nurse.h"
+	"Patient.h"
+	"Receptionist.h"
+
+1449884516 source:f:\softs\from laptop\codeblocks\projects\cse 225 labs\hms\patient.cpp
+	"Admin.h"
+	"Patient.h"
+	"Receptionist.h"
+
+1449887532 source:f:\softs\from laptop\codeblocks\projects\cse 225 labs\hms\receptionist.cpp
+	"Admin.h"
+	"Receptionist.h"
+	"Patient.h"
+

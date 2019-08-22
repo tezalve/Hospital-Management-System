@@ -1,0 +1,12 @@
+P1
+Abal
+Banani
+017
+In-Patient
+Paid
+D1
+BloodTest
+InGoodHealth
+Checked
+Tested
+A'Okay!
